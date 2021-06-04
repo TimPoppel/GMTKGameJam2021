@@ -785,3 +785,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.04-07.28.14:940][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.06.04-07.28.14:941][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.06.04-07.28.15:117][  2]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.04-07.29.20:605][774]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.06.04-07.29.20:605][774]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.06.04-07.29.20:605][774]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.06.04-07.29.20:605][774]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.06.04-07.29.20:605][774]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.06.04-07.29.20:606][774]LogWindows: Warning: URL: C:\Users\timva\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.06.04-07.29.20:606][774]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.06.04-07.29.20:606][774]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.06.04-07.29.20:606][774]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.06.04-07.29.20:606][774]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.06.04-07.29.20:606][774]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.06.04-07.29.20:606][774]LogWindows: Warning: URL: C:\Users\timva\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.06.04-07.29.20:606][774]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.06.04-07.29.20:606][774]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.06.04-07.29.25:748][ 82]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2021.06.04-07.29.25:748][ 82]LogWindows: Warning: URL: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2021.06.04-07.30.12:837][364]LogSlate: Took 0.030018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.04-07.30.13:974][432]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2021.06.04-07.31.28:781][112]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2021.06.04-07.31.28:781][112]LogWindows: Warning: URL: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2021.06.04-07.33.47:027][961]LogSlate: Window 'Source Control Login' being destroyed
